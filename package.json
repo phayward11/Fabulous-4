@@ -52,7 +52,7 @@
     "mini-css-extract-plugin": "^2.8.1",
     "mocha": "^10.3.0",
     "nodemon": "^3.1.0",
-    "pug": "^2.0.4",
+    "pug": "^3.0.1",
     "pug-cli": "^1.0.0-alpha6",
     "pug-html-loader": "^1.0.0",
     "pug-loader": "^1.0.2",
